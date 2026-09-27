@@ -1,8 +1,0 @@
-data/
-*.log
-work/
-wallet-app/bin/
-wallet-app/obj/
-wallet-exe/
-wallet-exe-standalone/
-node_modules/
